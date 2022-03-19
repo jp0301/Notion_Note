@@ -1,15 +1,15 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px">, I'm Wonseok.</h1>
+<h1 align="center">안녕하세요! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px">, 박원석입니다.</h1>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on a **[Data Warehouse](https://github.com/jyongkim/dataWarehouse)**.
-- 🌱 I’m currently learning everything! 🤣
+- 🔭 Univ. Korea. Computer Science Student **Grade 4**.
+- 🌱 현재는 졸업까지 열심히 공부만이 해야할 일. 🤣
 - 👨‍💻 But focusing on JavaScript and Python.
-- 👯 I’m looking to collaborate on **OpenSource Projects**.
-- ⚡ Hobbies: **I love to Play game**.
+- 👯 필요한 만큼 열심히 **공부하자!**.
+- ⚡ 취미: **Playing RPG Game and difference...**.
 
 ## 🚀 Languages and Tools:
 
@@ -30,7 +30,7 @@
   <br/>
 <p align="center">
     <a href="https://github.com/jp0301">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyongkim&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp0301&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
     </a>
     <a href="https://github.com/jp0301/jp0301">
     <img src="https://github-readme-stats.vercel.app/api?username=jp0301&show_icons=true&line_height=26&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Wonseok's GitHub Stats" />
