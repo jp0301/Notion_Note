@@ -23,19 +23,17 @@
     <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs"/> </a>
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="mysql"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="44" height="44"/> </a>
-    <a href="https://www.anaconda.com/" target="_blank"> <img src="https://img.icons8.com/dusk/64/000000/anaconda.png" alt="anaconda" width="48" height="48"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="git"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="github"/> </a>
 
 ## 📊 My Github Stats
   <br/>
 <p align="center">
-    <a href="https://github.com/jyongkim">
+    <a href="https://github.com/jp0301">
     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyongkim&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
     </a>
-    <a href="https://github.com/jyongkim/jyongkim">
-    <img src="https://github-readme-stats.vercel.app/api?username=jyongkim&show_icons=true&line_height=26&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jonathan's GitHub Stats" />
+    <a href="https://github.com/jp0301/jp0301">
+    <img src="https://github-readme-stats.vercel.app/api?username=jyongkim&show_icons=true&line_height=26&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Wonseok's GitHub Stats" />
     </a>
    <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
