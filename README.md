@@ -7,9 +7,9 @@
 
 - 🔭 Univ. Korea. Computer Science Student **Grade 4**.
 - 🌱 현재는 졸업까지 열심히 공부만이 해야할 일. 🤣
-- 👨‍💻 But focusing on JavaScript and Python.
-- 👯 필요한 만큼 열심히 **공부하자!**.
-- ⚡ 취미: **Playing RPG Game and difference...**.
+- 👯 필요한 만큼. 부족하면 ++으로. 배운 것은 금방 잊지 말고 꾸준히 **공부하자!**.
+- 👨‍💻 데이터 분석, 엔지니어링에도 관심이 있고 프론트엔드 작업에도 관심이 있습니다..
+- ⚡ 취미: **Playing RPG Game and 디자인적인 요소에 흥미를 많이 느끼는 편입니다.**.
 
 ## 🚀 Languages and Tools:
 
