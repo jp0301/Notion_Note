@@ -39,6 +39,9 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+
 
 <p align="center">
 <a href = "https://kr.linkedin.com/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40" height="40"/></a>
