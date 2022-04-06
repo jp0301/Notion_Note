@@ -22,7 +22,6 @@
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="python"/> </a>
     <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs"/> </a>
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="mysql"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="git"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="github"/> </a>
 
