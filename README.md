@@ -1,7 +1,7 @@
 <a href="#">
     <img width="100px" height="auto" src="favicon.png" height="50px" align="center"/>
 </a>
-<h1 align="center">Hello Onedoli.</h1>
+<h1 align="left">Hello Onedoli.</h1>
 ---
 ## 🙋‍♂️ About Me
 
