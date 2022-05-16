@@ -1,8 +1,8 @@
-<a href="#"><img width="100px" height="auto" src="favicon.png" height="50px"/></a>
-
+<a href="#">
+    <img width="100px" height="auto" src="favicon.png" height="50px"/>
+</a>
 <h1 align="center">Hello Onedoli.</h1>
-
-
+---
 ## 🙋‍♂️ About Me
 
 - 🔭 Univ. Korea. Computer Science Student **Grade 4**.
