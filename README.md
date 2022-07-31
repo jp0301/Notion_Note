@@ -1,20 +1,19 @@
-## *Back-end Developer*, 묵직한 돌덩이 개발자
-![](https://img.shields.io/badge/-Babel-F9DC3E?&logo=Babel&logoColor=white)
-![](https://img.shields.io/badge/-Webpack-8DD6F9?&logo=Webpack&logoColor=black)
-![](https://img.shields.io/badge/-Prettier-F7B93E?&logo=Prettier&logoColor=white)
-![](https://img.shields.io/badge/-ESLint-4B32C3?&logo=ESLint&logoColor=white)
-![typescript](https://img.shields.io/badge/typescript-007acc?logo=typescript&logoColor=white)
-![react](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![react native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white)
-![redux-toolkit](https://img.shields.io/badge/-Redux%20ToolKit-764abc?logo=redux&logoColor=white)
-![](https://img.shields.io/badge/-Storybook-FF4785?&logo=Storybook&logoColor=white)
-
-
-* **...** <I>2022.00.00 ~ 2022.00.00</I>
+Hi there!
+I'm Wonseok Park.
 
 
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jp0301)](https://solved.ac/jp0301)
+http://mazassumnida.wtf/api/v1/generate_badge?boj={username}
+ 
+- **[DEV.LOG](https://jp0301.github.io/)**
+---
 
-✨  <I>[RESUME]()</I>    
-🌱  <I>[PORTFOLIO]()</I>      
-✏️  <I>[DEV.LOG](/)</I>    
+### Stack
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
