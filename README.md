@@ -5,8 +5,7 @@
   <a href="mailto:iscowkite@gmail.com" target="_blank"><img src="https://img.shields.io/badge/rjswm78@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
   
-  
-  [![Solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=jp0301)](https://solved.ac/jp0301)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=jp0301)](https://solved.ac/jp0301)
 </p>
 
 <p>
