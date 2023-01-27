@@ -9,7 +9,7 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>full stack developer</b> Student.🚀<br/>
+  👋&nbsp; Hi there! I'm <b>developer</b> Student.🚀<br/>
   I'm starting out as a Java developer and aiming for a skilled developer.<br/>
   I majored in computer science and am currently complementing my lack of experience such as<br />
   Java and database in educational institutions.<br /><br />
