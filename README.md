@@ -13,7 +13,6 @@
   I'm starting out as a Java developer and aiming for a skilled developer.<br/>
   I majored in computer science and am currently complementing my lack of experience such as<br />
   Java and database in educational institutions.<br /><br />
-  I enjoy Gaming, watching movie & korea drama & comics. ⛰ 🏄<br/>
   I want to steadily develop my development skills. ✨ <br/><br/>
 </p>
 
@@ -29,4 +28,4 @@
 ### Skills 배우려하는 것들
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-스프링 등..더 
+스프링을 좀 더 공부하고 리액트와, NEXT JS 등 프레임워크에 관심이 있습니다.
