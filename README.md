@@ -7,6 +7,8 @@
   <a href="https://jp0301.github.io/intro" target="_blank">
       <img src="https://img.shields.io/badge/Resume-EA4AAA?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/>
   </a>
+    
+    
   [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=jp0301)](https://solved.ac/jp0301)
 </p>
 
