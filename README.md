@@ -1,10 +1,12 @@
 ### 🤞 Nice to meet you
 <p>
-  <a href="https://jp0301.github.io/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://jp0301.github.io/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/</a>
   <a href="https://jp0301.github.io/" target="_blank"><img src="https://img.shields.io/badge/WonseokPark-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:iscowkite@gmail.com" target="_blank"><img src="https://img.shields.io/badge/rjswm78@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
-  
+  <a href="https://jp0301.github.io/intro" target="_blank">
+      <img src="https://img.shields.io/badge/Resume-EA4AAA?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/>
+  </a>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=jp0301)](https://solved.ac/jp0301)
 </p>
 
